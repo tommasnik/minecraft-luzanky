@@ -1,0 +1,7 @@
+name: zombie
+version: "1.0-SNAPSHOT"
+author: Jedna Benda
+main: cz.luzanky.minecraft.zombie.ZombiePlugin
+commands:
+    zombie:
+        description: vytvori zombie
