@@ -5,3 +5,5 @@ main: cz.luzanky.minecraft.zombie.ZombiePlugin
 commands:
     zombie:
         description: vytvori zombie
+    zed:
+        description: vytvori zed
